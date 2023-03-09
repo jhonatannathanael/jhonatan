@@ -5,10 +5,11 @@
 - 📚 Possuo um conhecimento em HTML5, CSS3 e JavaScript básico.
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jhonatan_2319)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/jhonatannathanael13@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://[www.linkedin.com/in/jhonatan-andrade-2789771a5](https://github.com/jhonatannathanael))
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhonatan-andrade-2789771a5)
 
 ![Jhonatan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonatannathanael&show_icons=true&theme=tokyonight)
+
 
 ## Tecnologias que estou estudando constantemente
 
@@ -21,4 +22,5 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 
-Apaixonado por tecnologia ❤️
+Apaixonado por tecnologia ❤️ <br>
+📨 jhonatannathanael13@gmail.com
