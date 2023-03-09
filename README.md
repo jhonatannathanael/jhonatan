@@ -1,4 +1,4 @@
- Hello World! Eu sou o Jhonatan Nathanael 🖐️
+  Hello World! Eu sou o Jhonatan Nathanael 🖐️
 - 👜 Trabalho hoje na área de Service Desk.
 - ⌛ Estou estudando desenvolvimento e pretendo migrar para a área em breve.
 - 💻 Atualmente estou estudando JavaScript, TypeScript, React e Node.js.
